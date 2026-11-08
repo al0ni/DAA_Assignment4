@@ -1,0 +1,12 @@
+n,distance,time_ms,calls,status
+2,2,3.031700,19,completed
+3,3,4.704800,94,completed
+4,4,5.159500,481,completed
+5,5,5.614300,2524,completed
+6,6,5.299500,13483,completed
+7,7,8.388600,72958,completed
+8,8,15.888400,398593,completed
+9,9,33.033100,2193844,completed
+10,10,101.916700,12146179,completed
+11,11,450.974000,67570078,completed
+12,,,,timeout
